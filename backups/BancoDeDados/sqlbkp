@@ -1,0 +1,11 @@
+#!/bin/bash
+
+###DECLARANDO VARIAVEL DE DATA & HORA ###
+#set DATA='date +%Y-%m-%d-%H.%M'
+#export DATA='date +%Y-%m-%d-%H.%M'i
+
+###Entrando no diretÃrio do backup###
+cd /mnt/bkpsites/databases
+
+#INICIANDO DUMP#
+mysqldump -u root -p'#@!2019@ms' --all-databases > databases_$(date +%Y-%m-%d-%H.%M).sql
