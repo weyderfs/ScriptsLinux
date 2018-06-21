@@ -6,4 +6,4 @@ Alguns scripts para ajudar o sysadmin linux
 - Scripts para copiar banco de dados
 
 By: Weyder Ferreira
-<p><a href="https://www.linkedin.com/in/weyderfs" target="_blank"/>LinkedIn</>
+<p><a href="https://www.linkedin.com/in/weyderfs" target="_blank">LinkedIn</>
