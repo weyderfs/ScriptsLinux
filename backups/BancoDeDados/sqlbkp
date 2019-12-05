@@ -8,4 +8,4 @@
 cd /mnt/bkpsites/databases
 
 #INICIANDO DUMP#
-mysqldump -u root -p'#@!1990@ms' --all-databases > databases_$(date +%Y-%m-%d-%H.%M).sql
+mysqldump -u root -p'blablabla' --all-databases > databases_$(date +%Y-%m-%d-%H.%M).sql
