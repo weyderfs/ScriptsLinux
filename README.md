@@ -1,9 +1,9 @@
-# ScriptsLinux
+CLEANER EC2 FROM AWS
+===
 
-Alguns scripts para ajudar o sysadmin linux
+This script was created to run together with Rundeck like a job of him.
 
-- Scripts para copiar arquivos & diret√rios
-- Scripts para copiar banco de dados
+If you wanna see what's this job following link:
 
-By: Weyder Ferreira
-<p><a href="https://www.linkedin.com/in/weyderfs" target="_blank">LinkedIn</a></p>
+
+[Cleaning EC2](http://rundeck2.ecsbr.net/project/OPS/job/show/0c8e5c1b-5411-4ba5-b4e6-39eed1dfe13f)
